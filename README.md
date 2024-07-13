@@ -1,2 +1,2 @@
 # importos
-Ovaj program služo samo za windows
+Ovaj program služi samo za windows
